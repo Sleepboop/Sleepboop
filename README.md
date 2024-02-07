@@ -12,5 +12,5 @@ ____
 ____
 ### Want to find out more? Check out my personal Website!
 
-[🌐 Sebsite](https://sebastianbugl.dev)
+#### [🌐 Sebsite](https://sebastianbugl.dev)
 
